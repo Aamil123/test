@@ -1,4 +1,4 @@
-
+ 
     loop: true,
   
     // If we need pagination
