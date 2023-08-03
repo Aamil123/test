@@ -2,7 +2,8 @@
     loop: true,
   
     // If we need pagination
-    pagination: {
+    pagin
+     ation: {
       el: '.swiper-pagination',
       clickable: true,
     },
