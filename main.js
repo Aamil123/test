@@ -1,7 +1,6 @@
  
     loop: true,
-  
-    // If we need pagination
+
     pagin
      ation: {
       el: '.swiper-pagination',
